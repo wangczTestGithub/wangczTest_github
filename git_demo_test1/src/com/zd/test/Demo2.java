@@ -13,5 +13,6 @@ public class Demo2 {
 		System.out.println("xts");
 		System.out.println("Ğ¤Í¢Ë§");
 		System.out.println("ÀÏÍõ");
+		System.out.println("¶­Ö¾Åô");
 	}
 }
