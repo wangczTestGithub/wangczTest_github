@@ -9,6 +9,7 @@ public class Demo2 {
 		System.out.println("ÂŞÓÂ");
 		System.out.println("Ğ¡ĞñĞñ");
 		System.out.println("xts");
+		System.out.println("Ğ¤Í¢Ë§");
 		System.out.println("ÀÏÍõ");
 	}
 }
