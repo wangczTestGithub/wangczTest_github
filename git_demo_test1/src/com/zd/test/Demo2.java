@@ -7,6 +7,7 @@ public class Demo2 {
 		System.out.println(11111);
 		System.out.println("¶Î¾§öÎ");
 		System.out.println("zzh");
+		System.out.println("ÕÅ×ÏĞĞ");
 		System.out.println("ÂŞÓÂ");
 		System.out.println("Ğ¡ĞñĞñ");
 		System.out.println("xts");
