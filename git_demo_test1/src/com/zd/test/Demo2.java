@@ -5,7 +5,7 @@ public class Demo2 {
 	
 	public static void main(String[] args) {
 		System.out.println(11111);
-		System.out.println("zzh");
+		System.out.println("ÕÅ×ÏĞĞ");
 		System.out.println("ÂŞÓÂ");
 		System.out.println("Ğ¡ĞñĞñ");
 		System.out.println("xts");
