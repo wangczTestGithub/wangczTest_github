@@ -11,6 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  第一个web项目-首页2
+  第一个web项目-首页2-index.jsp
   </body>
 </html>
