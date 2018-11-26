@@ -8,5 +8,6 @@
     <mappers>
 
         <mapper resource="mappers/UserMapper.xml"></mapper>
+        <mapper resource="mappers/StudentMapper.xml"></mapper>
     </mappers>
 </configuration>

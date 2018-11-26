@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.dzkj.dao.IStudentDao">
+
+    <resultMap id="studentMapper" type="com.dzkj.entity.Student">
+        <result column="s_id" property="sid"></result>
+        <result column="s_name" property="sname"></result>
+        <result column="s_sex" property="ssex"></result>
+        <result column="s_age" property="sage"></result>
+        <result column="s_score" property="sscore"></result>
+    </resultMap>
+</mapper>
