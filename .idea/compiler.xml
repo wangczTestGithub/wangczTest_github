@@ -13,6 +13,7 @@
     <bytecodeTargetLevel>
       <module name="springboot_day1" target="1.8" />
       <module name="springboot_day2" target="1.8" />
+      <module name="springboot_day3" target="1.8" />
       <module name="springboot_demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
@@ -20,6 +21,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="springboot_day1" options="-parameters" />
       <module name="springboot_day2" options="-parameters" />
+      <module name="springboot_day3" options="-parameters" />
       <module name="springboot_demo" options="-parameters" />
     </option>
   </component>

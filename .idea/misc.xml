@@ -3,6 +3,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/springboot_day1" />
     <file type="web" url="file://$PROJECT_DIR$/springboot_day2" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot_day3" />
     <file type="web" url="file://$PROJECT_DIR$/springboot_demo" />
   </component>
   <component name="MavenProjectsManager">
